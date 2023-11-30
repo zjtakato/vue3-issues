@@ -1,1 +1,11 @@
-归纳使用Vue3时遇到的问题，具体代码可切换对应的分支进行查看
+# Issues Url
+
+https://github.com/vuejs/core/issues/9381
+
+# Version
+
+Vue - 3.2.47
+
+Vue Language Features (Volar) - v1.8.15
+
+TypeScript Vue Plugin (Volar) - v1.8.16
